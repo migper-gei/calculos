@@ -38,7 +38,7 @@ namespace Calculos
             {
                 return (temperatura - 32) / 1.8000;
             }
-            return -1;
+            return -1; 
         }
 
 

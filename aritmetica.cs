@@ -32,7 +32,7 @@ namespace Calculos
         /// <returns>>reorna a subtração de dois números</returns>
         public static int subtrair(int x, int y)
         {
-            return x - y; 
+            return x - y;  
         }
 
       
