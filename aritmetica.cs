@@ -19,7 +19,7 @@ namespace Calculos
         /// operação soma
         /// </summary>
        
-        /// <returns>reorna a soma de dois números</returns>
+        /// <returns>retorna a soma de dois números</returns>
         public static int somar(int x, int y)
         {
             return x + y;
@@ -29,12 +29,24 @@ namespace Calculos
         /// operação subtração
         /// </summary>
 
-        /// <returns>>reorna a subtração de dois números</returns>
+        /// <returns>>retorna a subtração de dois números</returns>
         public static int subtrair(int x, int y)
         {
             return x - y;  
         }
 
-      
+
+        /// <summary>
+        /// operação multiplicação
+        /// </summary>
+        /// <returns>retorna a multiplicação de dois números</returns>
+        public static int multiplicar(int x, int y)
+        {
+            return x * y;
+        }
+
+
+
+
     }
 }
